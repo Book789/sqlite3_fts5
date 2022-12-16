@@ -1,0 +1,202 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B3F3FF0D294AC8FF00F46D30 /* Makefile.msc */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.msc; sourceTree = "<group>"; };
+		B3F3FF0E294AC8FF00F46D30 /* install-sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "install-sh"; sourceTree = "<group>"; };
+		B3F3FF0F294AC8FF00F46D30 /* configure.ac */ = {isa = PBXFileReference; lastKnownFileType = text; path = configure.ac; sourceTree = "<group>"; };
+		B3F3FF10294AC8FF00F46D30 /* Makefile.fallback */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.fallback; sourceTree = "<group>"; };
+		B3F3FF11294AC8FF00F46D30 /* INSTALL */ = {isa = PBXFileReference; lastKnownFileType = text; path = INSTALL; sourceTree = "<group>"; };
+		B3F3FF12294AC8FF00F46D30 /* ltmain.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = ltmain.sh; sourceTree = "<group>"; };
+		B3F3FF13294AC8FF00F46D30 /* sqlite3rc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sqlite3rc.h; sourceTree = "<group>"; };
+		B3F3FF14294AC8FF00F46D30 /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = .DS_Store; sourceTree = "<group>"; };
+		B3F3FF15294AC8FF00F46D30 /* sqlite3.rc */ = {isa = PBXFileReference; lastKnownFileType = text; path = sqlite3.rc; sourceTree = "<group>"; };
+		B3F3FF16294AC8FF00F46D30 /* sqlite3.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; path = sqlite3.c; sourceTree = "<group>"; };
+		B3F3FF17294AC8FF00F46D30 /* configure */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = configure; sourceTree = "<group>"; };
+		B3F3FF18294AC8FF00F46D30 /* wcicuTokenizer.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; path = wcicuTokenizer.c; sourceTree = "<group>"; };
+		B3F3FF19294AC8FF00F46D30 /* wcicuUtils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wcicuUtils.h; sourceTree = "<group>"; };
+		B3F3FF1A294AC8FF00F46D30 /* config.guess */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = config.guess; sourceTree = "<group>"; };
+		B3F3FF1B294AC8FF00F46D30 /* depcomp */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = depcomp; sourceTree = "<group>"; };
+		B3F3FF1C294AC8FF00F46D30 /* sqlite-autoconf-3350500.tar.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; path = "sqlite-autoconf-3350500.tar.gz"; sourceTree = "<group>"; };
+		B3F3FF1D294AC8FF00F46D30 /* sqlite3.pc.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sqlite3.pc.in; sourceTree = "<group>"; };
+		B3F3FF1E294AC8FF00F46D30 /* missing */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = missing; sourceTree = "<group>"; };
+		B3F3FF1F294AC8FF00F46D30 /* Makefile.am */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		B3F3FF20294AC8FF00F46D30 /* shell.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; path = shell.c; sourceTree = "<group>"; };
+		B3F3FF21294AC8FF00F46D30 /* tea */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tea; sourceTree = "<group>"; };
+		B3F3FF22294AC8FF00F46D30 /* config.sub */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = config.sub; sourceTree = "<group>"; };
+		B3F3FF23294AC8FF00F46D30 /* compile */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = compile; sourceTree = "<group>"; };
+		B3F3FF24294AC8FF00F46D30 /* sqlite3.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = sqlite3.1; sourceTree = "<group>"; };
+		B3F3FF25294AC8FF00F46D30 /* sqlite3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sqlite3.h; sourceTree = "<group>"; };
+		B3F3FF26294AC8FF00F46D30 /* sqlite3ext.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sqlite3ext.h; sourceTree = "<group>"; };
+		B3F3FF27294AC8FF00F46D30 /* Replace.cs */ = {isa = PBXFileReference; lastKnownFileType = text; path = Replace.cs; sourceTree = "<group>"; };
+		B3F3FF28294AC8FF00F46D30 /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		B3F3FF29294AC8FF00F46D30 /* wcicuUtils.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; path = wcicuUtils.c; sourceTree = "<group>"; };
+		B3F3FF2A294AC8FF00F46D30 /* wcicuTokenizer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wcicuTokenizer.h; sourceTree = "<group>"; };
+		B3F3FF2B294AC8FF00F46D30 /* Makefile.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		B3F3FF2C294AC8FF00F46D30 /* aclocal.m4 */ = {isa = PBXFileReference; lastKnownFileType = text; path = aclocal.m4; sourceTree = "<group>"; };
+		B3F3FF2D294AC8FF00F46D30 /* sqlite-autoconf-3350500.tar.gz:Zone.Identifier */ = {isa = PBXFileReference; lastKnownFileType = text; path = "sqlite-autoconf-3350500.tar.gz:Zone.Identifier"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B3F3FF07294AC8FF00F46D30 = {
+			isa = PBXGroup;
+			children = (
+				B3F3FF0D294AC8FF00F46D30 /* Makefile.msc */,
+				B3F3FF0E294AC8FF00F46D30 /* install-sh */,
+				B3F3FF0F294AC8FF00F46D30 /* configure.ac */,
+				B3F3FF10294AC8FF00F46D30 /* Makefile.fallback */,
+				B3F3FF11294AC8FF00F46D30 /* INSTALL */,
+				B3F3FF12294AC8FF00F46D30 /* ltmain.sh */,
+				B3F3FF13294AC8FF00F46D30 /* sqlite3rc.h */,
+				B3F3FF14294AC8FF00F46D30 /* .DS_Store */,
+				B3F3FF15294AC8FF00F46D30 /* sqlite3.rc */,
+				B3F3FF16294AC8FF00F46D30 /* sqlite3.c */,
+				B3F3FF17294AC8FF00F46D30 /* configure */,
+				B3F3FF18294AC8FF00F46D30 /* wcicuTokenizer.c */,
+				B3F3FF19294AC8FF00F46D30 /* wcicuUtils.h */,
+				B3F3FF1A294AC8FF00F46D30 /* config.guess */,
+				B3F3FF1B294AC8FF00F46D30 /* depcomp */,
+				B3F3FF1C294AC8FF00F46D30 /* sqlite-autoconf-3350500.tar.gz */,
+				B3F3FF1D294AC8FF00F46D30 /* sqlite3.pc.in */,
+				B3F3FF1E294AC8FF00F46D30 /* missing */,
+				B3F3FF1F294AC8FF00F46D30 /* Makefile.am */,
+				B3F3FF20294AC8FF00F46D30 /* shell.c */,
+				B3F3FF21294AC8FF00F46D30 /* tea */,
+				B3F3FF22294AC8FF00F46D30 /* config.sub */,
+				B3F3FF23294AC8FF00F46D30 /* compile */,
+				B3F3FF24294AC8FF00F46D30 /* sqlite3.1 */,
+				B3F3FF25294AC8FF00F46D30 /* sqlite3.h */,
+				B3F3FF26294AC8FF00F46D30 /* sqlite3ext.h */,
+				B3F3FF27294AC8FF00F46D30 /* Replace.cs */,
+				B3F3FF28294AC8FF00F46D30 /* README.txt */,
+				B3F3FF29294AC8FF00F46D30 /* wcicuUtils.c */,
+				B3F3FF2A294AC8FF00F46D30 /* wcicuTokenizer.h */,
+				B3F3FF2B294AC8FF00F46D30 /* Makefile.in */,
+				B3F3FF2C294AC8FF00F46D30 /* aclocal.m4 */,
+				B3F3FF2D294AC8FF00F46D30 /* sqlite-autoconf-3350500.tar.gz:Zone.Identifier */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		B3F3FF0C294AC8FF00F46D30 /* sqlite3 */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = B3F3FF2E294AC8FF00F46D30 /* Build configuration list for PBXLegacyTarget "sqlite3" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = /Users/tf/Downloads/sqlite3;
+			dependencies = (
+			);
+			name = sqlite3;
+			passBuildSettingsInEnvironment = 1;
+			productName = sqlite3;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		B3F3FF08294AC8FF00F46D30 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+			};
+			buildConfigurationList = B3F3FF0B294AC8FF00F46D30 /* Build configuration list for PBXProject "sqlite3" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B3F3FF07294AC8FF00F46D30;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B3F3FF0C294AC8FF00F46D30 /* sqlite3 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B3F3FF09294AC8FF00F46D30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		B3F3FF0A294AC8FF00F46D30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		B3F3FF2F294AC8FF00F46D30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = sqlite3;
+			};
+			name = Debug;
+		};
+		B3F3FF30294AC8FF00F46D30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = sqlite3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B3F3FF0B294AC8FF00F46D30 /* Build configuration list for PBXProject "sqlite3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B3F3FF09294AC8FF00F46D30 /* Debug */,
+				B3F3FF0A294AC8FF00F46D30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B3F3FF2E294AC8FF00F46D30 /* Build configuration list for PBXLegacyTarget "sqlite3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B3F3FF2F294AC8FF00F46D30 /* Debug */,
+				B3F3FF30294AC8FF00F46D30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B3F3FF08294AC8FF00F46D30 /* Project object */;
+}

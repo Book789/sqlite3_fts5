@@ -1,0 +1,6 @@
+framework module Pods_sqlite3_fts5_simple {
+  umbrella header "Pods-sqlite3_fts5_simple-umbrella.h"
+
+  export *
+  module * { export * }
+}

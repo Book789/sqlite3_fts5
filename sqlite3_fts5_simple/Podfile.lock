@@ -1,0 +1,18 @@
+PODS:
+  - sqlite3/common (3.40.0)
+  - sqlite3/fts5 (3.40.0):
+    - sqlite3/common
+
+DEPENDENCIES:
+  - sqlite3/fts5
+
+SPEC REPOS:
+  trunk:
+    - sqlite3
+
+SPEC CHECKSUMS:
+  sqlite3: 88dd99ef4ac3945f5a15facdd752933c52fd93bf
+
+PODFILE CHECKSUM: add7ced75e33f18f03c852961499dc2ecb9088bd
+
+COCOAPODS: 1.11.3

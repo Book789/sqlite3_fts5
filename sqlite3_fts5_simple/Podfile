@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '10.0'
+
+def all_pods
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Template
+  pod 'sqlite3/fts5'
+  
+    
+  
+end
+
+target 'sqlite3_fts5_simple' do
+    all_pods
+end
+
+
+
+
+
+
